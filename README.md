@@ -10,3 +10,8 @@ This repository contains Power BI and Tableau dashboards built from various data
 ## Tools Used
 - Power BI Desktop
 - Tableau
+
+## Tableau Public
+Explore my interactive Tableau dashboards on [Tableau Public](https://public.tableau.com/app/profile/chaitanya.sura).
+
+

@@ -5,6 +5,7 @@ This Power BI report provides visual insights from cricket match data.
 ## What's Inside
 - `Cricket_Analysis.pbix`: The Power BI dashboard file.
 - Visual pages covering player stats, match summaries, and key metrics.
+- A short interactive video walkthrough demonstrating the dashboard features.
 
 ## Key Insights
 - Team and player performance

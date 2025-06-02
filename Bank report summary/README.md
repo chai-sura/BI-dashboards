@@ -5,6 +5,7 @@ This project contains a Power BI report that shows insights from a bank loan dat
 ## What's Inside
 - `BANK_LOAN.pbix`: The Power BI report file.
 - Three images showing different pages of the dashboard.
+- A short interactive video walkthrough demonstrating the dashboard features.
 
 ## Key Insights
 - Loan approval and rejection trends
